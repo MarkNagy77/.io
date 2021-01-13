@@ -10,8 +10,7 @@
 		$body = $('body'),
 		$wrapper = $('#wrapper'),
 		$header = $('#header'),
-		$main = $('#main'),
-		$navPanelToggle, $navPanel, $navPanelInner;
+		$main = $('#main');
 
 	// Breakpoints.
 		breakpoints({
